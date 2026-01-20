@@ -14,7 +14,9 @@ Visualizes resulting customer segments in a scatter plot.
 The goal is to identify meaningful groups of mall customers based on their spending behavior and income.
 
 1. Clone the Repository
-git clone https://github.com/SelvamathanS/Hierarchical-clustering-on-Mall-customer-data.git
+git clone https:git clone https://github.com/0803032006/Association-rule-market-analysis.git
+cd Association-rule-market-analysis
+
 cd Hierarchical-clustering-on-Mall-customer-data
 2. Install Dependencies
 Make sure you have Python 3.x installed. Then install required packages:
